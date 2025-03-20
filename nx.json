@@ -64,5 +64,5 @@
     "@nx/angular:component": { "style": "css" }
   },
   "defaultProject": "testAngularNx",
-  "nxCloudId": "67dbf44784be509d8b64a16b"
+  "nxCloudId": "67d5b99f83f8dd52cef24e6b"
 }
